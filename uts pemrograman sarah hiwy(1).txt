@@ -1,0 +1,209 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Media Pembelajaran Matematika - Papan Statistik</title>
+    <style>
+        body {
+            background-color: #f4fbff;
+            color: #003366;
+            font-family: "Segoe UI", Arial, sans-serif;
+            text-align: justify;
+            margin: 40px;
+        }
+
+        h1, h2 {
+            text-align: center;
+            color: #004d99;
+        }
+
+        h3 {
+            color: #0066cc;
+        }
+
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            background-color: #eaf5ff;
+        }
+
+        th, td {
+            border: 1px solid #004477;
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #cce6ff;
+        }
+
+        a {
+            color: #0044cc;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #0099ff;
+            text-decoration: underline;
+        }
+        <br>
+        img {"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJE8qvsC-sLBVbjw8--iMwULhfUCqiwyDR2w&s">
+
+            display: block;
+            margin: 20px auto;
+            border: 2px solid #004477;
+            border-radius: 10px;
+        }
+
+        button {
+            background-color: #0073e6;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #005bb5;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>📊 Media Pembelajaran Matematika</h1>
+    <h2>Topik: Papan Statistik</h2>
+    <hr>
+
+    <h3>Pengenalan Papan Statistik</h3>
+    <p>
+        <strong>Papan Statistik</strong> merupakan <em>media pembelajaran</em> yang digunakan untuk 
+        membantu siswa memahami konsep dasar <mark>statistika</mark>. Dengan papan ini, data ditampilkan secara visual, 
+        menarik, dan mudah dipahami oleh peserta didik. 😊
+    </p>
+
+    <p>
+        Biasanya papan statistik berisi hasil pengamatan atau survei sederhana, misalnya jumlah siswa yang 
+        <i>membawa bekal</i>, <i>menggunakan transportasi</i>, atau <i>menyukai mata pelajaran tertentu</i>.
+        Tujuan utamanya adalah agar siswa belajar membaca dan menafsirkan data secara benar.
+    </p>
+
+    <hr>
+
+    <h3>Contoh Data Statistik</h3>
+    <p>
+        Berikut contoh tabel data hasil survei tentang <strong>jenis transportasi yang digunakan siswa ke sekolah</strong>:
+    </p>
+
+    <table>
+        <tr>
+            <th>No</th>
+            <th>Jenis Transportasi</th>
+            <th>Jumlah Siswa</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Jalan Kaki</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Sepeda</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Motor</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Mobil</td>
+            <td>5</td>
+        </tr>
+    </table>
+
+    <br>
+
+    <p>
+        Total siswa dapat dihitung dengan menjumlahkan seluruh data pada tabel:
+        <br><br>
+        <strong>Total = 6 + 9 + 10 + 5 = 30 siswa</strong>
+    </p>
+
+    <hr>
+
+    <h3>Langkah-langkah Membuat Papan Statistik</h3>
+    <ol>
+        <li>Kumpulkan data dari hasil survei sederhana di kelas.</li>
+        <li>Tulis data pada papan statistik menggunakan kertas warna-warni.</li>
+        <li>Susun data dalam bentuk tabel seperti contoh di atas.</li>
+        <li>Hitung frekuensi dari setiap kategori data.</li>
+        <li>Gambarkan diagram batang atau diagram lingkaran sebagai visualisasi data.</li>
+    </ol>
+
+    <hr>
+
+    <p>
+        Berikut contoh ilustrasi papan statistik dalam bentuk diagram batang:
+    </p>
+
+    <img:https://wikielektronika.com/wp-content/uploads/2023/05/papan-statistika.jpg
+    <p>
+        Dari gambar di atas, terlihat bahwa <mark>motor</mark> merupakan transportasi yang paling banyak digunakan.  
+        Simbol seperti <small>warna dan tinggi batang</small> membantu siswa memahami perbandingan data dengan cepat.
+    </p>
+
+    <p>
+        Untuk memperdalam pemahamanmu tentang data dan diagram, kunjungi situs berikut:  
+        <a href="https://www.geogebra.org/m/statistics" target="_blank">🔗 Belajar Statistik Interaktif di GeoGebra</a>
+    </p>
+
+    <br>
+    <hr>
+    <br>
+
+    <h3>Latihan Sederhana</h3>
+    <p>
+        Misalkan kamu ingin mengetahui jumlah siswa yang menggunakan sepeda dan motor.  
+        Maka perhitungannya adalah:
+        <br><br>
+        <strong>9 + 10 = 19 siswa</strong>
+        <br><br>
+        Dengan demikian, <em>sebagian besar siswa menggunakan kendaraan roda dua</em>.
+    </p>
+
+    <p>
+        Penulisan angka seperti <ins>10<sup>2</sup></ins> menandakan <strong>10 pangkat dua</strong>, sedangkan  
+        notasi <em>H<sub>2</sub>O</em> menunjukkan contoh penggunaan indeks bawah pada rumus kimia.
+    </p>
+
+    <hr>
+
+    <h3>Form Umpan Balik</h3>
+    <p>
+        Apakah kamu tertarik belajar <strong>statistika</strong> menggunakan media papan statistik?  
+        Klik tombol berikut untuk memberikan tanggapanmu:
+    </p>
+
+    <form>
+        <button type="button">Saya Tertarik 📊</button>
+    </form>
+
+    <br>
+    <hr>
+    <br>
+
+    <p style="text-align:center;">
+        <del>Materi versi lama</del> telah <ins>diperbarui pada tahun 2025</ins> 🌟
+    </p>
+
+</body>
+</html>
